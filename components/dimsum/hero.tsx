@@ -11,8 +11,7 @@ export function Hero() {
             DIMDUM — Fresh, Halal, Lezat!
           </h1>
           <p className="mt-4 text-muted-foreground leading-relaxed text-pretty">
-            Dimsum rumahan premium dengan isian daging berkualitas. Dikukus hangat, cocok untuk sarapan, bekal, atau
-            camilan keluarga.
+            Kami menyediakan dimsum dan dumpling lezat dengan harga terjangkau. Cocok jadi camilan atau makanan ringan, pas banget buat mahasiswa yang ingin makan enak tanpa ribet.
           </p>
 
           <div className="mt-6 flex items-center gap-3">
@@ -29,8 +28,8 @@ export function Hero() {
           <ul className="mt-6 grid grid-cols-2 gap-3 text-sm text-muted-foreground">
             <li>• 100% Halal</li>
             <li>• Fresh dibuat harian</li>
-            <li>• Tanpa pengawet</li>
-            <li>• Saus homemade</li>
+            <li>• Banyak Varian</li>
+            <li>• Harga Mahasiswa</li>
           </ul>
         </div>
 
