@@ -10,7 +10,7 @@ const testimonies = [
     text: "Kualitas dan kuantitas baik!.",
   },
   {
-    name: "Sari",
+    name: "Umayla",
     text: "Pelayanan baik, makanan sehat dan terjangkau.",
   },
 ]
